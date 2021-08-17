@@ -10,4 +10,4 @@
 
 ## Используемые библиотеки и методы
 
-*Pandas*, NumPy*, *SciKit-Learn*
+*Pandas*, *NumPy*, *SciKit-Learn*
